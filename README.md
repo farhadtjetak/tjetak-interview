@@ -31,4 +31,9 @@ $ ./vendor/bin/sail up
 ```
 
 5. 
-#
+# How to create page
+1. Open `/resource/views/index` and modify the file
+# Styling with css
+1. this style is required the npm so install npm on this documentation https://nodejs.org/en/download/
+2. run `npm install` to install all laravel dependencies
+3. run `npm run dev` to compile the css or scrips. Use `npm run watch` to watch your file so you dont need to compile it with previous command
